@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Aug 25 02:41:43 PDT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0156-c113-9df8-0000013ede05 
+on database directory /Users/zeeshansajid/University/JavaComprehensive/Assignments/ZeeshanSajid_homework7/Resources/BineetDB with class loader sun.misc.Launcher$AppClassLoader@659e0bfd 
+Loaded from file:/Users/zeeshansajid/University/JavaComprehensive/Assignments/ZeeshanSajid_homework7/Resources/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_65-b17
+user.dir=/Users/zeeshansajid/University/JavaComprehensive/Assignments/ZeeshanSajid_homework7
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11.6
+derby.system.home=Resources
+Database Class Loader started - derby.database.classpath=''
